@@ -12,7 +12,7 @@ import Contact from './pages/Contact';
 import Brands from './pages/Brands';
 import { FavouriteSection } from './pages/Favourite';
 import Login from './pages/loginFrom';
-import CreateAcc from './pages/createAccount';
+import CreateAcc from './pages/CreateAccount';
 import AddProduct from './pages/AdminAddProduct';
 import AdminDashboard from './pages/AdminPanel';
 import ProtectedRoute from './component/route/ProtectedRoute';
